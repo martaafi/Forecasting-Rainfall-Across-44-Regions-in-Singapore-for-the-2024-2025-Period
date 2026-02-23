@@ -39,4 +39,4 @@ Kami hanya menggunakan data historis harian selama 3 tahun ke belakang yaitu 202
 
 ## Hasil
 - Memperoleh skor akhir pada leaderboard Kaggle dengan nilai Mean Squared Error (MSE) sebesar 19,04488, menempati peringkat 8 dari 60 tim.
-- Berhasil masuk sebagai finalis kompetisi.
+- Berhasil masuk sebagai finalis kompetisi Sebelas Maret Statistics Data Science 2025.
