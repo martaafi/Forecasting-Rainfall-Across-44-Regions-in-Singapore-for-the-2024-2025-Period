@@ -1,4 +1,4 @@
-# Forecasting Rainfall Across 44 Regions in Singapore for the 2024 2025 Period
+# Image-Based Time Series Forecasting of Rainfall in 44 Regions of Singapore (2024–2025)
 ## **Pendahuluan**
 
 Dalam beberapa tahun terakhir, peningkatan frekuensi dan intensitas peristiwa cuaca ekstrem menjadi isu global yang semakin mendesak. Singapura, sebagai negara kecil dengan kepadatan penduduk tinggi dan infrastruktur perkotaan yang kompleks, turut merasakan dampak perubahan iklim ini. Fenomena seperti banjir lokal akibat hujan deras maupun gelombang panas yang memengaruhi kesehatan masyarakat telah menjadi perhatian serius.
