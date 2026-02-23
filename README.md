@@ -36,3 +36,7 @@ Kami menggunakan Webplotdigitizer untuk mengekstrak data gambar plot daily rainf
 Link: https://drive.google.com/drive/folders/1Bswry-FX-nvqz4iwTJxVkglJTi8Z5n8E?usp=sharing
 
 Kami hanya menggunakan data historis harian selama 3 tahun ke belakang yaitu 2021 hingga 2023 karena mempertimbangkan relevansi cuaca. Data ini digunakan untuk melakukan prediksi curah hujan pada januari 2024 - mei 2025.
+
+## Hasil
+- Memperoleh skor akhir pada leaderboard Kaggle dengan nilai Mean Squared Error (MSE) sebesar 19,04488, menempati peringkat 8 dari 60 tim.
+- Berhasil masuk sebagai finalis kompetisi.
